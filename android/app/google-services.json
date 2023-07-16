@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633033384298",
+    "firebase_url": "https://econtrol-b3732-default-rtdb.firebaseio.com",
+    "project_id": "econtrol-b3732",
+    "storage_bucket": "econtrol-b3732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633033384298:android:4211b7a1e9c55a8afd4513",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633033384298-coiffr6g8qbjk4ucqdqaj48clee5l5gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4EG9Wx3uh3V7er2ymUwlIgzv-SlnFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633033384298-coiffr6g8qbjk4ucqdqaj48clee5l5gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
